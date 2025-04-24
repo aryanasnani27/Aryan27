@@ -27,9 +27,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=flat-square" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
-
