@@ -26,4 +26,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanasnani27&show_icons=true&locale=en&layout=compact" alt="aryan27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanasnani27&show_icons=true&locale=en" alt="aryan27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanasnani27&" alt="aryan27" /></p>
+
 
